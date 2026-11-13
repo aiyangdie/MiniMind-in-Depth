@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/22-MiniMind-in-Depth.jpg" alt="MiniMind-in-Depth 项目封面" width="100%"></p>
+
 # MiniMind-in-Depth 🌌
 
 > 🔍 深入浅出，重构理解 —— 基于 [MiniMind](https://github.com/jingyaogong/minimind) 的 LLM 教程拆解系列  
